@@ -1,6 +1,6 @@
 # MECH 7013
 ## Applied Numerical Computing Seminar II
-Prof. Kiyanda's version of the part 2 of MECH 692, applied numerical computing seminar
+Prof. Kiyanda's version of the MECH 7013, applied numerical computing seminar
 
 This seminar touches on 3 subjects, represented in 3 assignments.
 
